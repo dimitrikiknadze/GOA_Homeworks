@@ -1,0 +1,10 @@
+name = "dimitri"
+surname = "kiknadze"
+height = "165.7"
+age = "11"
+one = "hello! my name is"
+two = "my age is"
+three = "my height is"
+four = "nice to meet you!"
+five = "bye!"
+print(one + " " + name + " " + two + " " + age + " " + three + " " + four + " " + five)

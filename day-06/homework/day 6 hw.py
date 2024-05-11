@@ -1,0 +1,18 @@
+name = input("please enter your name:")
+sure_name = input("please enter your sure name:")
+age = input("please enter your age:")
+place = input("please enter place where you live:")
+print(name)
+print(sure_name)
+print(age)
+print(place)
+
+number_1 = input("enter some number:")
+number_2 = input("enter some number again:")
+number_3 = input("enter this two number:")
+print(number_1)
+print(number_2)
+print(number_3)
+
+enter_your_familys_Age = input("enter your familys age:")
+print(enter_your_familys_Age)
