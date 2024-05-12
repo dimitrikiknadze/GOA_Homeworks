@@ -30,6 +30,7 @@
 #while ციკლი
 #N1
 #num = 0
+#while num < 10:
 #    num += 1
 #    print(num)
 
@@ -46,8 +47,22 @@
 #    num += 1
 
 #N4
-num = 99
-while num > -1:
-    if num % 2 == 1:
-        print(num)
-    num -= 1
+#num = 99
+#while num > -1:
+#    if num % 2 == 1:
+#        print(num)
+#    num -= 1
+
+#N5
+#num = 4 + 8
+#num_2 = -1
+#while num_2 < num:
+#    num_2 += 1
+#    print(num_2)
+
+#N6
+#a = -1
+#b = 79
+#while a < b:
+#    a += 1
+#    print(a)
