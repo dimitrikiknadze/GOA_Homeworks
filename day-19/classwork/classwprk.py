@@ -2,4 +2,4 @@
 name = ["dimitri", "nika", "luka", "sandro"]
 
 
-print(name[0])
+print(name[3])
