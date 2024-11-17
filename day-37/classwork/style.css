@@ -1,0 +1,44 @@
+/* div{width: 300px;
+height: 300px;
+background-color: black;
+color: antiquewhite;
+font-size: large;
+text-align: center;
+font-family:fantasy;
+
+border-radius: 15%;
+border-width: 15px;
+border-color: aqua;
+border-style: solid;
+
+padding: 90px;} */
+
+/* div{width: 350px;
+    height: 350px;
+    background-color: blue;
+    color: orange;
+    font-size: x-large;
+    text-align: bottom;
+    font-family:fantasy;
+    
+    border-radius: 25%;
+    border-width: 15px;
+    border-color: gold;
+    border-style: solid;
+    
+    padding-right: 50px;} */
+    
+    div{width: 350px;
+        height: 350px;
+        background-color: blue;
+        color: orange;
+        font-size: x-large;
+        text-align: bottom;
+        font-family:fantasy;
+        
+        border-radius: 25%;
+        border-width: 15px;
+        border-color: gold;
+        border-style: solid;
+        
+        padding-right: 50px; }
